@@ -1,5 +1,5 @@
-# Volley--Example-in-Kotlin
-An example on how to use Volley networking library to do CRUD operations
+# Volley-Example-in-Kotlin
+An example on how to use Volley networking library to do CRUD operations, as well as load images using picasso
 
 Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available on GitHub.
 
