@@ -3,7 +3,7 @@ An example on how to use Volley networking library to do CRUD operations, as wel
 
 Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available on GitHub.
 
-Volley offers the following benefits:
+Volley offers the following:
 
  - Automatic scheduling of network requests.
  - Multiple concurrent network connections.
@@ -19,5 +19,3 @@ iVolley interface handles a basic response from a test api
 MyVolleyRequest contains all function API requests including the built in Image Loader
 
 The MainActivity calls the functions
-
-
