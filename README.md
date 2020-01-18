@@ -18,6 +18,6 @@ iVolley interface handles a basic response from a test api
 
 MyVolleyRequest contains all function API requests including the built in Image Loader
 
-The MainActivity calls the functions
+
 
 
